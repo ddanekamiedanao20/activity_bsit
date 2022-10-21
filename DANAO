@@ -1,0 +1,9 @@
+git config-- global user.name DanekaMie
+git config-- global user.email danaodanekamie@gmail.com
+git init
+git status
+git add DANAO
+git commit-m "first commit"
+https://github.com/ddanekamiedanao20/DANAO.git
+git branch - M main
+git push - u origin main
